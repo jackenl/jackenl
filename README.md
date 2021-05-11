@@ -1,18 +1,13 @@
-### Hi, I'm Jacken Li 👋
+<h3 align="center">Hi 👋, I'm Jacken Li</h1>
+<h5 align="center">A passionate frontend developer from China</h3>
 
-<!--
-**jackenl/jackenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jackenl&label=Profile%20views&color=0e75b6&style=flat" alt="jackenl" /></p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **jackenliy@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/jackenliy" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="jackenliy" height="30" width="40" /></a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackenl)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jackenl&show_icons=true&locale=en" alt="jackenl" /></p>
