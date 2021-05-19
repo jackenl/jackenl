@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jackenl&show_icons=true&locale=en" alt="jackenl" />
 
 <h3 align="left">Hi 👋, I'm Jacken Li</h1>
-<h5 align="left">A passionate frontend developer from China</h3>
+A passionate frontend developer from China
 
 - 📫 How to reach me: **jackenliy@gmail.com**
 
